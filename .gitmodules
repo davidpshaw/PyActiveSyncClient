@@ -1,0 +1,3 @@
+[submodule "PyWBXMLDecoder"]
+	path = PyWBXMLDecoder
+	url = git@github.com:davidpshaw/PyWBXMLDecoder.git
